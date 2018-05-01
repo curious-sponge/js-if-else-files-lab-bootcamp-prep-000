@@ -7,6 +7,7 @@ if (index.name === "Susan") {
 }
 
 index.height = 70
+cosole.log(index.height)
 if (index.height === 70) {
     console.log("The height is correct")
 } else {
