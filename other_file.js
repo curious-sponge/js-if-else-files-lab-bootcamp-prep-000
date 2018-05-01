@@ -1,3 +1,3 @@
-var index = require("./index.js")
+var lindex = require("./index.js")
 
 console.log(index.name)
